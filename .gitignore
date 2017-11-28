@@ -1,0 +1,6 @@
+*.lck
+*.b\#*
+*.s\#*
+*.gpi
+.ipynb_checkpoints/*
+*.swp
