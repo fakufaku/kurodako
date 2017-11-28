@@ -1,5 +1,5 @@
-CompactSix
-==========
+Kurodako
+========
 
 An eight-channel compact microphone array based on the Beaglebone Black and PDM microphones.
 
