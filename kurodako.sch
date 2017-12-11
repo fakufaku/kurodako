@@ -3983,10 +3983,10 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <part name="U$7" library="LCAV" deviceset="BEAGLEBONE_OUTLINE" device="-NOCUT"/>
 <part name="J1" library="LCAV" deviceset="CONN-4P" device="-MICROMATCH-SMD"/>
 <part name="J2" library="LCAV" deviceset="CONN-4P" device="-MICROMATCH-SMD"/>
-<part name="R1" library="adafruit" deviceset="R-US_" device="R0805"/>
+<part name="R1" library="adafruit" deviceset="R-US_" device="R0805" value="DNI"/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
 <part name="P+1" library="supply1" deviceset="VCC" device=""/>
-<part name="C1" library="SparkFun" deviceset="CAP" device="0805"/>
+<part name="C1" library="SparkFun" deviceset="CAP" device="0805" value="0.1uF"/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
 <part name="GND4" library="supply1" deviceset="GND" device=""/>
 <part name="P+2" library="supply1" deviceset="VCC" device=""/>
@@ -3995,10 +3995,10 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <part name="MIC1R" library="LCAV" deviceset="SPM1437HM4H-B" device=""/>
 <part name="J3" library="LCAV" deviceset="CONN-4P" device="-MICROMATCH-SMD"/>
 <part name="J4" library="LCAV" deviceset="CONN-4P" device="-MICROMATCH-SMD"/>
-<part name="R2" library="adafruit" deviceset="R-US_" device="R0805"/>
+<part name="R2" library="adafruit" deviceset="R-US_" device="R0805" value="DNI"/>
 <part name="GND3" library="supply1" deviceset="GND" device=""/>
 <part name="P+3" library="supply1" deviceset="VCC" device=""/>
-<part name="C2" library="SparkFun" deviceset="CAP" device="0805"/>
+<part name="C2" library="SparkFun" deviceset="CAP" device="0805" value="0.1uF"/>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
 <part name="P+5" library="supply1" deviceset="VCC" device=""/>
@@ -4008,10 +4008,10 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <part name="MIC2L" library="LCAV" deviceset="SPM1437HM4H-B" device=""/>
 <part name="J5" library="LCAV" deviceset="CONN-4P" device="-MICROMATCH-SMD"/>
 <part name="J6" library="LCAV" deviceset="CONN-4P" device="-MICROMATCH-SMD"/>
-<part name="R3" library="adafruit" deviceset="R-US_" device="R0805"/>
+<part name="R3" library="adafruit" deviceset="R-US_" device="R0805" value="DNI"/>
 <part name="GND10" library="supply1" deviceset="GND" device=""/>
 <part name="P+7" library="supply1" deviceset="VCC" device=""/>
-<part name="C3" library="SparkFun" deviceset="CAP" device="0805"/>
+<part name="C3" library="SparkFun" deviceset="CAP" device="0805" value="0.1uF"/>
 <part name="GND11" library="supply1" deviceset="GND" device=""/>
 <part name="GND12" library="supply1" deviceset="GND" device=""/>
 <part name="P+8" library="supply1" deviceset="VCC" device=""/>
@@ -4020,10 +4020,10 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <part name="MIC2R" library="LCAV" deviceset="SPM1437HM4H-B" device=""/>
 <part name="J7" library="LCAV" deviceset="CONN-4P" device="-MICROMATCH-SMD"/>
 <part name="J8" library="LCAV" deviceset="CONN-4P" device="-MICROMATCH-SMD"/>
-<part name="R4" library="adafruit" deviceset="R-US_" device="R0805"/>
+<part name="R4" library="adafruit" deviceset="R-US_" device="R0805" value="DNI"/>
 <part name="GND14" library="supply1" deviceset="GND" device=""/>
 <part name="P+10" library="supply1" deviceset="VCC" device=""/>
-<part name="C4" library="SparkFun" deviceset="CAP" device="0805"/>
+<part name="C4" library="SparkFun" deviceset="CAP" device="0805" value="0.1uF"/>
 <part name="GND15" library="supply1" deviceset="GND" device=""/>
 <part name="GND16" library="supply1" deviceset="GND" device=""/>
 <part name="P+11" library="supply1" deviceset="VCC" device=""/>
@@ -4033,10 +4033,10 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <part name="MIC3L" library="LCAV" deviceset="SPM1437HM4H-B" device=""/>
 <part name="J9" library="LCAV" deviceset="CONN-4P" device="-MICROMATCH-SMD"/>
 <part name="J10" library="LCAV" deviceset="CONN-4P" device="-MICROMATCH-SMD"/>
-<part name="R5" library="adafruit" deviceset="R-US_" device="R0805"/>
+<part name="R5" library="adafruit" deviceset="R-US_" device="R0805" value="DNI"/>
 <part name="GND19" library="supply1" deviceset="GND" device=""/>
 <part name="P+13" library="supply1" deviceset="VCC" device=""/>
-<part name="C5" library="SparkFun" deviceset="CAP" device="0805"/>
+<part name="C5" library="SparkFun" deviceset="CAP" device="0805" value="0.1uF"/>
 <part name="GND20" library="supply1" deviceset="GND" device=""/>
 <part name="GND21" library="supply1" deviceset="GND" device=""/>
 <part name="P+14" library="supply1" deviceset="VCC" device=""/>
@@ -4045,10 +4045,10 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <part name="MIC3R" library="LCAV" deviceset="SPM1437HM4H-B" device=""/>
 <part name="J11" library="LCAV" deviceset="CONN-4P" device="-MICROMATCH-SMD"/>
 <part name="J12" library="LCAV" deviceset="CONN-4P" device="-MICROMATCH-SMD"/>
-<part name="R6" library="adafruit" deviceset="R-US_" device="R0805"/>
+<part name="R6" library="adafruit" deviceset="R-US_" device="R0805" value="DNI"/>
 <part name="GND23" library="supply1" deviceset="GND" device=""/>
 <part name="P+16" library="supply1" deviceset="VCC" device=""/>
-<part name="C6" library="SparkFun" deviceset="CAP" device="0805"/>
+<part name="C6" library="SparkFun" deviceset="CAP" device="0805" value="0.1uF"/>
 <part name="GND24" library="supply1" deviceset="GND" device=""/>
 <part name="GND25" library="supply1" deviceset="GND" device=""/>
 <part name="P+17" library="supply1" deviceset="VCC" device=""/>
@@ -4058,10 +4058,10 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <part name="MIC4L" library="LCAV" deviceset="SPM1437HM4H-B" device=""/>
 <part name="J13" library="LCAV" deviceset="CONN-4P" device="-MICROMATCH-SMD"/>
 <part name="J14" library="LCAV" deviceset="CONN-4P" device="-MICROMATCH-SMD"/>
-<part name="R7" library="adafruit" deviceset="R-US_" device="R0805"/>
+<part name="R7" library="adafruit" deviceset="R-US_" device="R0805" value="DNI"/>
 <part name="GND28" library="supply1" deviceset="GND" device=""/>
 <part name="P+19" library="supply1" deviceset="VCC" device=""/>
-<part name="C7" library="SparkFun" deviceset="CAP" device="0805"/>
+<part name="C7" library="SparkFun" deviceset="CAP" device="0805" value="0.1uF"/>
 <part name="GND29" library="supply1" deviceset="GND" device=""/>
 <part name="GND30" library="supply1" deviceset="GND" device=""/>
 <part name="P+20" library="supply1" deviceset="VCC" device=""/>
@@ -4070,10 +4070,10 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <part name="MIC4R" library="LCAV" deviceset="SPM1437HM4H-B" device=""/>
 <part name="J15" library="LCAV" deviceset="CONN-4P" device="-MICROMATCH-SMD"/>
 <part name="J16" library="LCAV" deviceset="CONN-4P" device="-MICROMATCH-SMD"/>
-<part name="R8" library="adafruit" deviceset="R-US_" device="R0805"/>
+<part name="R8" library="adafruit" deviceset="R-US_" device="R0805" value="DNI"/>
 <part name="GND32" library="supply1" deviceset="GND" device=""/>
 <part name="P+22" library="supply1" deviceset="VCC" device=""/>
-<part name="C8" library="SparkFun" deviceset="CAP" device="0805"/>
+<part name="C8" library="SparkFun" deviceset="CAP" device="0805" value="0.1uF"/>
 <part name="GND33" library="supply1" deviceset="GND" device=""/>
 <part name="GND34" library="supply1" deviceset="GND" device=""/>
 <part name="P+23" library="supply1" deviceset="VCC" device=""/>
@@ -4096,7 +4096,7 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <part name="GND42" library="supply1" deviceset="GND" device=""/>
 <part name="P+33" library="supply1" deviceset="VCC" device=""/>
 <part name="P+34" library="supply1" deviceset="VCC" device=""/>
-<part name="R9" library="adafruit" deviceset="R-US_" device="R0805"/>
+<part name="R9" library="adafruit" deviceset="R-US_" device="R0805" value="DNI"/>
 <part name="R10" library="adafruit" deviceset="R-US_" device="R0805" value="100"/>
 <part name="R11" library="adafruit" deviceset="R-US_" device="R0805" value="100"/>
 <part name="R12" library="adafruit" deviceset="R-US_" device="R0805" value="100"/>

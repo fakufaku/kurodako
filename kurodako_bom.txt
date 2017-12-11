@@ -1,0 +1,50 @@
+Partlist exported from /Users/scheibler/Documents/eagle/Kurodako/kurodako.sch at 11.12.17 23:04
+
+Part  Value                    Device                   Package                 Description                                        
+C1    0.1uF                    CAP0805                  0805                    Capacitor                                          
+C2    0.1uF                    CAP0805                  0805                    Capacitor                                          
+C3    0.1uF                    CAP0805                  0805                    Capacitor                                          
+C4    0.1uF                    CAP0805                  0805                    Capacitor                                          
+C5    0.1uF                    CAP0805                  0805                    Capacitor                                          
+C6    0.1uF                    CAP0805                  0805                    Capacitor                                          
+C7    0.1uF                    CAP0805                  0805                    Capacitor                                          
+C8    0.1uF                    CAP0805                  0805                    Capacitor                                          
+J1    CONN-4P-MICROMATCH-SMD   CONN-4P-MICROMATCH-SMD   MICROMATCH-4P-SMD                                                          
+J2    CONN-4P-MICROMATCH-SMD   CONN-4P-MICROMATCH-SMD   MICROMATCH-4P-SMD                                                          
+J3    CONN-4P-MICROMATCH-SMD   CONN-4P-MICROMATCH-SMD   MICROMATCH-4P-SMD                                                          
+J4    CONN-4P-MICROMATCH-SMD   CONN-4P-MICROMATCH-SMD   MICROMATCH-4P-SMD                                                          
+J5    CONN-4P-MICROMATCH-SMD   CONN-4P-MICROMATCH-SMD   MICROMATCH-4P-SMD                                                          
+J6    CONN-4P-MICROMATCH-SMD   CONN-4P-MICROMATCH-SMD   MICROMATCH-4P-SMD                                                          
+J7    CONN-4P-MICROMATCH-SMD   CONN-4P-MICROMATCH-SMD   MICROMATCH-4P-SMD                                                          
+J8    CONN-4P-MICROMATCH-SMD   CONN-4P-MICROMATCH-SMD   MICROMATCH-4P-SMD                                                          
+J9    CONN-4P-MICROMATCH-SMD   CONN-4P-MICROMATCH-SMD   MICROMATCH-4P-SMD                                                          
+J10   CONN-4P-MICROMATCH-SMD   CONN-4P-MICROMATCH-SMD   MICROMATCH-4P-SMD                                                          
+J11   CONN-4P-MICROMATCH-SMD   CONN-4P-MICROMATCH-SMD   MICROMATCH-4P-SMD                                                          
+J12   CONN-4P-MICROMATCH-SMD   CONN-4P-MICROMATCH-SMD   MICROMATCH-4P-SMD                                                          
+J13   CONN-4P-MICROMATCH-SMD   CONN-4P-MICROMATCH-SMD   MICROMATCH-4P-SMD                                                          
+J14   CONN-4P-MICROMATCH-SMD   CONN-4P-MICROMATCH-SMD   MICROMATCH-4P-SMD                                                          
+J15   CONN-4P-MICROMATCH-SMD   CONN-4P-MICROMATCH-SMD   MICROMATCH-4P-SMD                                                          
+J16   CONN-4P-MICROMATCH-SMD   CONN-4P-MICROMATCH-SMD   MICROMATCH-4P-SMD                                                          
+MIC1L SPM1437HM4H-B            SPM1437HM4H-B            MEMS-MIC-6PAD                                                              
+MIC1R SPM1437HM4H-B            SPM1437HM4H-B            MEMS-MIC-6PAD                                                              
+MIC2L SPM1437HM4H-B            SPM1437HM4H-B            MEMS-MIC-6PAD                                                              
+MIC2R SPM1437HM4H-B            SPM1437HM4H-B            MEMS-MIC-6PAD                                                              
+MIC3L SPM1437HM4H-B            SPM1437HM4H-B            MEMS-MIC-6PAD                                                              
+MIC3R SPM1437HM4H-B            SPM1437HM4H-B            MEMS-MIC-6PAD                                                              
+MIC4L SPM1437HM4H-B            SPM1437HM4H-B            MEMS-MIC-6PAD                                                              
+MIC4R SPM1437HM4H-B            SPM1437HM4H-B            MEMS-MIC-6PAD                                                              
+R1    DNI                      R-US_R0805               R0805                   RESISTOR, American symbol                          
+R2    DNI                      R-US_R0805               R0805                   RESISTOR, American symbol                          
+R3    DNI                      R-US_R0805               R0805                   RESISTOR, American symbol                          
+R4    DNI                      R-US_R0805               R0805                   RESISTOR, American symbol                          
+R5    DNI                      R-US_R0805               R0805                   RESISTOR, American symbol                          
+R6    DNI                      R-US_R0805               R0805                   RESISTOR, American symbol                          
+R7    DNI                      R-US_R0805               R0805                   RESISTOR, American symbol                          
+R8    DNI                      R-US_R0805               R0805                   RESISTOR, American symbol                          
+R9    DNI                      R-US_R0805               R0805                   RESISTOR, American symbol                          
+R10   100                      R-US_R0805               R0805                   RESISTOR, American symbol                          
+R11   100                      R-US_R0805               R0805                   RESISTOR, American symbol                          
+R12   100                      R-US_R0805               R0805                   RESISTOR, American symbol                          
+R13   100                      R-US_R0805               R0805                   RESISTOR, American symbol                          
+P8    2x23 pin header                                                           pin header 100 mil spacing
+P9    2x23 pin header                                                           pin header 100 mil spacing
